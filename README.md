@@ -69,11 +69,10 @@ My primary contributions included:
 
 The repository includes UI screenshots, demo visuals, and project resources demonstrating the platform workflow and interface.
 
-<img width="1920" height="1080" alt="Screenshot 2025-08-02 220930" src="https://github.com/user-attachments/assets/0da48ad9-3f76-4318-bf93-f36d65e9db69" />
-<img width="1920" height="1080" alt="Screenshot 2025-08-02 220950" src="https://github.com/user-attachments/assets/7217e319-5b03-4f18-8706-07f32d22f1d0" />
-<img width="1920" height="1080" alt="Screenshot 2025-08-02 221004" src="https://github.com/user-attachments/assets/1ef6b46f-8af4-43ca-83be-9054fed26fbe" />
-<img width="1920" height="1080" alt="Screenshot 2025-08-02 221229" src="https://github.com/user-attachments/assets/cfa9e13e-07d5-4acc-8c0f-671b5821daba" />
-
+<img width="1920" height="875" alt="Screenshot 2025-08-02 220930" src="https://github.com/user-attachments/assets/0e0dbd2f-53bf-4bcc-b460-acc2e33fa27e" />
+<img width="1920" height="868" alt="Screenshot 2025-08-02 220950" src="https://github.com/user-attachments/assets/d4932239-fd9e-40d8-9f65-91d09e25eb0b" />
+<img width="1920" height="868" alt="Screenshot 2025-08-02 221004" src="https://github.com/user-attachments/assets/c443b42e-16b7-4fea-aef2-d464d22f8655" />
+<img width="1920" height="871" alt="Screenshot 2025-08-02 221229" src="https://github.com/user-attachments/assets/d1fc27ea-c98a-48cc-bc47-91899e1ee597" />
 
 ## 🌱 Future Improvements
 
